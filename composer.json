@@ -44,11 +44,24 @@
         "ibmjstart/wp-bluemix-objectstorage"          : "~2.1.1",
         "ibmjstart/wp-bluemix-config"                 : "dev-master",
         "wpackagist-plugin/stops-core-theme-and-plugin-updates": "*",
+        "wpackagist-plugin/akismet"				      : "*",
+        "wpackagist-plugin/all-in-one-favicon"		  : "*",
+        "wpackagist-plugin/contact-form-plugin"		  : "4.0.*",
+        "wpackagist-plugin/embed-wider-flickr-photo"  : "*",
+        "wpackagist-plugin/google-analytics-for-wordpress" : "*",
+        "wpackagist-plugin/google-sitemap-plugin"	  : "*",
+        "wpackagist-plugin/https-redirection"		  : "*",
+        "wpackagist-plugin/maxbuttons"				  : "*",
+        "wpackagist-plugin/mobile-friendly-flickr-slideshow" : "*",
         "wpackagist-plugin/sendgrid-email-delivery-simplified": "*",
+        "wpackagist-plugin/tablepress"				  : "*",
+        "wpackagist-plugin/tag-pages"				  : "*",
+        "wpackagist-plugin/updraftplus"				  : "*",
         "wpackagist-plugin/wp-super-cache"            : "*",
+        "wpackagist-plugin/wp-cirrus"				  : "*",
+        "wpackagist-plugin/wp-clone-by-wp-academy"	  : "*",
         "wpackagist-theme/twentyfourteen"             : "*",
-        "wpackagist-theme/twentyfifteen"             : "*",
-        "wpackagist-theme/twentysixteen"               : "*"
+        "wpackagist-theme/twentyseventeen"            : "*"
     },
 
     "extra": {
